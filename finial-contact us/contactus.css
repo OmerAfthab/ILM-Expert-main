@@ -1,0 +1,77 @@
+
+    .style2{
+    font-family: 'Libre Franklin', sans-serif !important;
+    }
+    .style1{
+    font-family: 'Playfair Display', serif !important;
+    }
+    .navbar-nav{
+    margin-right: 0 !important;
+    
+    }
+    .bg-color-official{
+        background-color: #7D50C7;
+    }
+    .official_text{
+    color: #7D50C7;
+    }
+    .logo{
+    width: 200px;
+    }
+    .dropdown-item:hover{
+    background-color: #7D50C7;
+    color: #fff;
+    }
+    input, textarea{
+        border-radius: 10px !important;
+        border: #fff;
+        box-shadow: 2px 2px  #ddd;
+    }
+    .cont-box{
+        border-radius: 20px !important;
+        border: 2px solid #ddd;
+        box-shadow: 2px 2px 2px 2px #ddd;
+    }
+    .info-box{
+        border-radius: 20px !important;
+        background-color: #7D50C7;
+    }
+    .bg-color-official{
+        background-color: #7D50C7;
+    }
+    .btn-radius{
+      border-radius: 10px;
+    }
+    .card-bg-blue{
+        background-color: #7D4FC6;
+    }
+    .card-bg-brown{
+        background-color: #C67D4F;
+    }
+    .card-bg-green{
+        background-color: #4FC67D;
+    }
+    .rights-reserved h6{
+        opacity: .5;
+    }
+    .main-descp-font{
+        font-size: 22px;
+        line-height: 2.2rem;
+    }
+    .card-descp-font{
+        font-size: 21px;
+    }
+    iframe{
+        width: 100%;
+        height: 500px;
+    }
+
+    @media (min-width: 992px){
+    .menu_wrapper  li .active{
+          border-bottom: 2px solid #fff;
+          width: 100%;
+        }
+      }
+  
+  
+

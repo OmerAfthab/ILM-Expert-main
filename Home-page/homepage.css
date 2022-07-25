@@ -1,0 +1,180 @@
+
+       .style2{
+        font-family: 'Libre Franklin', sans-serif !important;
+        }
+        .style1{
+        font-family: 'Playfair Display', serif !important;
+        }
+        .bg-color-official{
+            background-color: #7D50C7;
+        }
+        .official_text{
+            color: #7D50C7;
+        }
+
+        
+        /* header start */
+        .navbar-nav{
+        margin-right: 0 !important;
+        }
+        .logo{
+        width: 200px;
+        }
+        .dropdown-item:hover{
+        background-color: #7D50C7;
+        color: #fff;
+        }
+        /* header end */
+
+        .main-heading-fs{
+            font-size: 52px !important; 
+            font-weight:bolder !important;
+        }
+        .main-desc-fs{
+            font-weight: 200;
+        }
+
+        .explore-btn{
+            border-radius: 20px !important;
+        }
+        .slider-radius-btn{
+            border-radius: 100px !important;
+        }
+        .card-radius{
+            border-radius: 28px;
+            margin-bottom: 0px auto !important;
+           
+        }
+        
+        .swiper-button-prev {
+          background-image: url(Group\ 148.svg);
+          background-repeat: no-repeat;
+          background-size: 100% auto;
+          background-position: center;
+          color: none;
+        }
+        
+        .swiper-button-prev::after {
+          display: none;
+        }
+        .swiper-button-next {
+          background-image: url(Group\ 148.svg);
+          transform: rotate(180deg);
+          background-repeat: no-repeat;
+          background-size: 100% auto;
+          background-position: center;
+          color: none;
+        }
+        
+        .swiper-button-next::after {
+          display: none;
+        }
+        .swiper-pagination-bullet-active {
+          background-color: #7D50C7 !important;
+          /* top: 200% !important; */
+          
+      }
+        .swiper-pagination{
+          /* top: 550% !important; */
+          color: #5828A7 !important;
+          
+      }
+      .official_text_light{
+        color: #918E8E;
+    }
+    .font-small{
+      font-size: 17px !important; 
+  }
+ 
+/* .card-radius{
+  border-radius: 30px;
+ 
+} */
+.border-color{
+  border: 1px solid #707070;
+}
+.image1{
+  border-radius: 50%;
+  border: 2px solid #ddd; 	
+  object-fit: cover; 
+  max-width: 60px;
+  width: 60px;
+  height: 60px;
+  overflow: hidden;
+}
+
+.font-size{
+  font-size: 23px;
+  }
+  .logo{
+  width: 200px;
+  }
+  .line-height{
+  line-height:2.5rem;
+  }
+  .social-img{
+      width: 45px;
+      padding-left: 14px;
+  }
+  .rights-reserved{
+      opacity: .5;
+  }
+  .footer-radius{
+    border-top-left-radius: 55px;
+    border-top-right-radius: 55px;
+    }
+    .expert-box{
+        border-radius: 20px; 
+        box-shadow: 0px 0px 2px 2px #ddd; 
+        height: 80%;
+    }
+    .exp-in-box{
+        border: 2px solid #ddd;   
+        box-shadow: 2px 2px 0px 0px #ddd; 
+        background-image: linear-gradient(#fff, #fff)
+    }
+    .btn-fontsize{
+        border-radius: 100px;
+    }
+    .Marketing-box{
+        border-radius: 20px; 
+        border: 2px solid #7D50C7;
+    }
+    .pagination-btn{
+        top:100%
+    }
+  @media (max-width: 991px){
+  .adress-box{
+      padding-left: 15px;
+      
+  }
+  }
+  @media only screen and (min-width: 992px) and (max-width: 1199px){
+    .btn-fontsize{
+      font-size: 18px;
+      
+    }
+  }
+  @media (max-width: 350px){
+
+  .main-heading-fs{
+    font-size: 48px !important;
+
+  }
+  }
+
+        
+        
+      
+       
+    
+        @media (min-width: 992px){
+        .menu_wrapper  li .active{
+              border-bottom: 2px solid #fff;
+              width: 100%;
+            }
+          }
+      
+      
+    
+    

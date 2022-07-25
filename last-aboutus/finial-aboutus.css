@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@200;500&family=Playfair+Display&display=swap');
+       .style2{
+        font-family: 'Libre Franklin', sans-serif !important; 
+        }
+        .style1{
+        font-family: 'Playfair Display', serif !important;        
+        }
+        .bg-color-official{
+            background-color: #7D50C7;
+        }
+        .official_text{
+            color: #7D50C7;
+        }
+
+        
+        /* header start */
+        .navbar-nav{
+        margin-right: 0 !important;
+        
+        }
+        .bg-color-official{
+            background-color: #7D50C7;
+        }
+        
+        .logo{
+        width: 200px;
+        }
+        .dropdown-item:hover{
+        background-color: #7D50C7;
+        color: #fff;
+        }
+        /* header end */
+        
+        
+        .card-bg-blue{
+            background-color: #7D4FC6;
+        }
+        .card-bg-brown{
+            background-color: #C67D4F;
+        }
+        .card-bg-green{
+            background-color: #4FC67D;
+        }
+        
+        .card-descp-fontsize{
+            font-size: 19px;
+        }
+
+
+        /* footer starts */
+        .rights-reserved h6{
+            opacity: .5;
+        }
+        /* footer end */
+       
+    
+        @media (min-width: 992px){
+        .menu_wrapper  li .active{
+              border-bottom: 2px solid #fff;
+              width: 100%;
+            }
+          }
+      
+      
+    
+    
